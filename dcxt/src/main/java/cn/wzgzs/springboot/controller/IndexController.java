@@ -22,6 +22,8 @@ public class IndexController {
 	@ResponseBody
 	public RestResult index(){
 		
+		//环境调试 lcz
+		
 		return new RestResult("网站工作室");
 	}
 	
